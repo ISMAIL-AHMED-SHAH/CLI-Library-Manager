@@ -1,37 +1,44 @@
 [
     {
-        "title": "The Day",
-        "author": "The Hero",
-        "year": "1986",
-        "genre": "comics",
+        "title": "The Holy Quran",
+        "author": "Allah Subhanahu Wa Taala",
+        "year": "610",
+        "genre": "Religious",
         "read": true
     },
     {
-        "title": "The Nights",
-        "author": "The Hero",
-        "year": "1999",
-        "genre": "horror",
+        "title": "The holy Bible",
+        "author": "Various Authors",
+        "year": "unknown",
+        "genre": "Religious",
         "read": true
     },
     {
-        "title": "The moon",
-        "author": "The Hero",
-        "year": "2009",
-        "genre": "science",
+        "title": "The Great Gatsby",
+        "author": "F.Scot",
+        "year": "1925",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "To kill a Mockingbird",
+        "author": "Harper",
+        "year": "1960",
+        "genre": "Classic",
+        "read": true
+    },
+    {
+        "title": "History of Humankind",
+        "author": "Noah",
+        "year": "2011",
+        "genre": "History",
         "read": false
     },
     {
-        "title": "The Sun",
-        "author": "Ali",
-        "year": "2019",
-        "genre": "Science",
+        "title": "1984",
+        "author": "George",
+        "year": "1949",
+        "genre": "Dystopian",
         "read": false
-    },
-    {
-        "title": "the holy Quran",
-        "author": "The Lord",
-        "year": "507",
-        "genre": "islam",
-        "read": true
     }
 ]
